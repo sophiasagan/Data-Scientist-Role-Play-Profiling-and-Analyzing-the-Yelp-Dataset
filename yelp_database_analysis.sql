@@ -1,5 +1,4 @@
 By: Sophia Braddock
-Date: May-1-2018
 
 Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
 
